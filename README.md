@@ -8,4 +8,9 @@ The implementation is done in <b>PyTorch</b><br>
 <b>Train Acc:</b> 97.38<br>
 <b>Val Acc:</b> 93.55<br>
 <b>Test Acc:</b> 93.57<br>
-<b>Confusion Matrix</b>
+<b>Confusion Matrix:</b>
+https://github.com/ArjunPukale/ECG_classification_using_2d_CNN/blob/main/Images/Confusion_Matrix.JPG
+<br>
+Also implemented CAM to visualize important portions of the ecg graph image which leads to the corresponding predicted class
+<br>
+
