@@ -2,7 +2,7 @@
 Using 2d cnn models for classification of 1d ecg signals by first converting the 1d signal in an image and then passing it to the cnn.
 <br>
 ![Alt text](/Images/ecg_graphs.png?raw=true "Sample Ecg Graphs")
-<b>Dataset Used:</b>  MIT-BIH Arrhythmia Dataset from: https://www.kaggle.com/shayanfazeli/heartbeat
+<b>Dataset Used:</b>  <b>MIT-BIH Arrhythmia</b> Dataset from: https://www.kaggle.com/shayanfazeli/heartbeat
 <br>
 The implementation is done in <b>PyTorch</b><br>
 <b>Model Used:</b> Resnet34<br>
