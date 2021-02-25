@@ -8,8 +8,8 @@ The implementation is done in <b>PyTorch</b><br>
 <b>Train Acc:</b> 97.38<br>
 <b>Val Acc:</b> 93.55<br>
 <b>Test Acc:</b> 93.57<br>
-<b>Confusion Matrix:</b>
+<b>Confusion Matrix:</b><br>
 ![Alt text](/Images/Confusion_Matrix.JPG?raw=true "Confusion Matrix")
 <br>
-Also implemented CAM to visualize important portions of the ecg graph image which leads to the corresponding predicted class
+*Also implemented <b>CAM</b> to visualize important portions of the ecg graph image which leads to the corresponding predicted class*
 <br>
