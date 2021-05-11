@@ -15,3 +15,22 @@ The implementation is done in <b>PyTorch</b><br>
 <br>
 *Also implemented <b>CAM</b> to visualize important portions of the ecg graph image which leads to the corresponding predicted class*
 <br>
+<b>CAM for class 0</b>
+<br>
+![Alt text](/Images/result0.JPG?raw=true "CAM for class 0")
+<br>
+<b>CAM for class 1</b>
+<br>
+![Alt text](/Images/result1.JPG?raw=true "CAM for class 1")
+<br>
+<b>CAM for class 2</b>
+<br>
+![Alt text](/Images/result2.JPG?raw=true "CAM for class 2")
+<br>
+<b>CAM for class 3</b>
+<br>
+![Alt text](/Images/result3.JPG?raw=true "CAM for class 3")
+<br>
+<b>CAM for class 4</b>
+<br>
+![Alt text](/Images/result4.JPG?raw=true "CAM for class 4")
